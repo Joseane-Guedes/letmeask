@@ -11,4 +11,3 @@ Desenvolvendo uma aplicação do zero.:partying_face:
 
 [Aulas](https://nextlevelweek.com/episodios/react/aula-1/edicao/6) :open_book:
 
-
