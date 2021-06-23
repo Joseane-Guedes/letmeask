@@ -5,13 +5,13 @@ Next Level Week - Mission: ReactJS! :atom_symbol:
 Desenvolvendo uma aplicação do zero.:partying_face:
 
 ## Programação
-<ol>
- <li>Dia 1: Cadastro de usuário</li> 
- <li>Dia 2: Criação de Salas</li>
- <li>Dia 3: Envio de Perguntas em tempo real</li>
- <li>Dia 4:Curtir perguntas</li>
- <li>Dia 5: Excluir salas</li>
-<ol>
+
+* Dia 1: Cadastro de usuário 
+* Dia 2: Criação de Salas
+* Dia 3: Envio de Perguntas em tempo real
+* Dia 4:Curtir perguntas
+* Dia 5: Excluir salas
+
 
 
 <!-- [Configuração do ambiente](https://www.notion.so/Configura-es-do-ambiente-84c104da38fe4f51a31c1e2c757250fb) 
