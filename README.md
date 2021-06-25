@@ -5,7 +5,7 @@
     Next Level Week - Mission: ReactJS! 
     </p>
 <p align="center">
-  <img src="src/assets/images/Letmeask.png" width="350" title="hover text">
+  <img src="src/assets/images/Letmeask.png" width="700" title="hover text">
 </p>
 
 
