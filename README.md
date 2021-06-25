@@ -1,16 +1,44 @@
-# NLW/Together Rocketseat :rocket:
+# <center> NLW/Together Rocketseat :rocket: </center>
+# <center> Letmeask App :woman_dancing:</center>
 
-Next Level Week - Mission: ReactJS! :atom_symbol:
+<p align="center">
+    Next Level Week - Mission: ReactJS! 
+    </p>
+<p align="center">
+  <img src="src/assets/images/Letmeask.png" width="350" title="hover text">
+</p>
 
-Desenvolvendo uma aplicação do zero.:partying_face:
 
-## Programação
+### :technologist: Sobre o Projeto Letmeask
+Projeto de um app desenvolvido durante a Next Level Week da Rocketseat durante a semana 20 e 27 de junho de 2021. 
+
+
+### :hammer_and_wrench: Tecnologias Front-end utilizadas:
+* ReactJS
+* Typescript
+* Firebase Authentication
+* Firebase Realtime Database
+
+### Requerimentos 
+
+* Node.js
+* Yarn 
+
+Acesse o projeto:  [Letmeask](https://letmeask-aulas-d09b5.web.app/) 
+
+<hr/>
+<p align="center">
+Projeto feito com 💙 por Joseane Guedes e Rocketseat 🚀
+</p>
+
+
+<!-- ## Programação
 
 * Dia 1: Cadastro de usuário 
 * Dia 2: Criação de Salas
 * Dia 3: Envio de Perguntas em tempo real
 * Dia 4:Curtir perguntas
-* Dia 5: Excluir salas
+* Dia 5: Excluir salas -->
 
 
 
