@@ -49,7 +49,7 @@ export function Home() {
     <div id="page-auth">
       <aside>
         <img src={illustationImg} alt="Ilustração simbolizando perguntas e respostas" />
-        <strong>Crie salar de Q&amp;A ao-vivo</strong>
+        <strong>Crie sala de Q&amp;A ao-vivo</strong>
         <p>Tire as dúvidas da sua audiência em tempo real</p>
       </aside>
       <main>

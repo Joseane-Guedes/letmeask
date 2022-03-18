@@ -9,17 +9,17 @@
 </p>
 
 
-### :technologist: Sobre o Projeto Letmeask
+### Sobre o Projeto Letmeask :technologist: 
 Projeto de um app desenvolvido durante a Next Level Week da Rocketseat durante a semana 20 e 27 de junho de 2021. 
 
 
-### :hammer_and_wrench: Tecnologias Front-end utilizadas:
+### Tecnologias Front-end utilizadas :hammer_and_wrench: 
 * ReactJS
 * Typescript
 * Firebase Authentication
 * Firebase Realtime Database
 
-### Requerimentos 
+### Requerimentos :pencil:
 
 * Node.js
 * Yarn 

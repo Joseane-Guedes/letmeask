@@ -1,7 +1,7 @@
 import { ReactNode } from 'react';
 import cx from 'classnames';
-
 import "./style.scss";
+
 
 type QuestionProps = {
   content: string;
@@ -46,3 +46,4 @@ export function Question({
     </div>
   )
 }
+
